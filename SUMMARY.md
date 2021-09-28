@@ -6,15 +6,13 @@
 
 ---
 
+* [SIGMA](sigma/README.md)
+  * [Published Detection Rules: Authored or Contributed To](sigma/published-detection-rules-authored-or-contributed-to.md)
+  * [SIGMA Templates](sigma/sigma-templates.md)
 * [Elastic SIEM](elastic-siem/README.md)
+  * [Published Detection Rules: Authored or Contributed To](elastic-siem/published-detection-rules-authored-or-contributed-to.md)
   * [KQL](elastic-siem/kql.md)
   * [EQL](elastic-siem/eql.md)
-
-## Checklists
-
-* [Bug Bounty Checklist](checklists/bug-bounty-checklist.md)
-* [Burpsuite Checklist](checklists/burpsuite-checklist.md)
-* [Web Pentest Checklist](checklists/web-pentest-checklist.md)
 
 ## Penetration Testing Skills <a id="pts"></a>
 
