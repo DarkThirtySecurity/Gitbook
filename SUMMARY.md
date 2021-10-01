@@ -45,3 +45,7 @@
 * [17. Port Redirection and Tunneling](pt/17.-port-redirection-and-tunneling.md)
 * [18. Active Directory Attacks](pt/18.-active-directory-attacks.md)
 
+## Governance, Risk, Compliance
+
+* [Untitled](governance-risk-compliance/untitled.md)
+
