@@ -14,6 +14,10 @@
   * [KQL](elastic-siem/kql.md)
   * [EQL](elastic-siem/eql.md)
 
+## Governance, Risk, Compliance
+
+* [Untitled](governance-risk-compliance/untitled.md)
+
 ## Penetration Testing <a id="pt"></a>
 
 * [01. Commandline-and-Tools](pt/01.-commandline-and-tools/README.md)
@@ -44,8 +48,4 @@
   * [NCrack](pt/16.-password-attacks/ncrack.md)
 * [17. Port Redirection and Tunneling](pt/17.-port-redirection-and-tunneling.md)
 * [18. Active Directory Attacks](pt/18.-active-directory-attacks.md)
-
-## Governance, Risk, Compliance
-
-* [Untitled](governance-risk-compliance/untitled.md)
 
