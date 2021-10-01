@@ -16,8 +16,6 @@
 
 ## Governance, Risk, Compliance
 
-* [Untitled](governance-risk-compliance/untitled.md)
-
 ## Penetration Testing <a id="pt"></a>
 
 * [01. Commandline-and-Tools](pt/01.-commandline-and-tools/README.md)
